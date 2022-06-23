@@ -1,0 +1,95 @@
+.home{
+  color:red;
+  padding-top: 10px;
+  font-size: 40px;
+  text-align: center;
+}
+
+.subtituloHome{
+  position: absolute;
+  top: 400px;
+  left: 650px;
+}
+
+.linha1{
+  background-color: rgb(255, 0, 43); 
+  width: 600px;
+  height: 2px;
+  margin-left: 375px;
+  margin-top: 20px;
+}
+
+.ft10anos{
+  width: 125px;
+  height: 120px;
+  position: absolute;
+  right: 210px;
+  top: 370px;
+}
+
+.descricao1Home{
+  text-align: left;
+  margin-left: 180px;
+  margin-top: 90px;
+}
+
+.ft1home{
+  width: 260px;
+  height: 370px;
+  margin-right: 680px;
+  margin-top: 50px;
+}
+
+.descricaoFt1{
+  font-size: 12.5px;
+  text-align: left;
+  margin-left: 205px;
+  margin-top: 0px;
+}
+
+.descricao2Home{
+  text-align: right;
+  position: absolute;
+  right: 180px;
+  top: 670px;
+}
+
+.ft2home{
+  width: 200px;
+  height: 270px;
+  position: absolute;
+  top: 790px;
+  right: 210px;
+}
+
+.descricaoFt2{
+  font-size: 12.5px;
+  text-align: right;
+  margin-right: 209px;
+  margin-top: 0px;
+}
+
+.descricao3Home{
+  margin-top: 60px;
+}
+
+.ft3home{
+  width: 230px;
+  height: 240px;
+  margin: 20px;
+}
+
+.descricaoFinal{
+  margin-bottom: 30px ;
+  position: absolute;
+  top: 1505px;
+  left: 415px;
+}
+
+.linha2{
+  background-color: rgb(255, 0, 43); 
+  width: 1000px;
+  height: 2px;
+  margin-left: 169px;
+  margin-top: 50px;
+}

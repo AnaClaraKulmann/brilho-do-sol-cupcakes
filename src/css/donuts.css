@@ -1,0 +1,22 @@
+.donuts{
+  color:red;
+  padding-top: 10px;
+  font-size: 40px;
+  text-align: center;
+}
+
+.ft1-donuts{
+  width: 240px;
+  height: 250px;
+  margin: 20px;
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+
+.ft2-donuts{
+  width: 240px;
+  height: 250px;
+  margin: 20px;
+  margin-bottom: 130px;
+}
+

@@ -1,0 +1,21 @@
+.bento{
+  color:red;
+  padding-top: 10px;
+  text-align: center;
+  font-size: 40px;
+}
+
+.ft1-bento{
+  width: 230px;
+  height: 240px;
+  margin: 20px;
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+
+.ft2-bento{
+  width: 230px;
+  height: 240px;
+  margin: 20px;
+  margin-bottom: 130px;
+}

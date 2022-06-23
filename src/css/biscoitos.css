@@ -1,0 +1,53 @@
+.biscoitos{
+  color:red;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.descricaoBiscoito{
+  text-align: center;
+}
+
+.ft1-biscoitos{
+  width: 230px;
+  height: 240px;
+  margin: 20px;
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+
+.ft2-biscoitos{
+  width: 230px;
+  height: 240px;
+  margin: 20px;
+  margin-bottom: 130px;
+}
+
+.subtitulo-pascoa{
+  text-align: left;
+  font-size: 28px;
+  margin-left: 170px;
+  margin-top: 10px;
+}
+
+.ft3-biscoitos{
+  width: 240px;
+  height: 250px;
+  margin: 20px;
+  margin-bottom: 130px;
+}
+
+.subtitulo-natal{
+  text-align: left;
+  font-size: 28px;
+  margin-left: 170px;
+  margin-top: 10px;
+}
+
+.ft4-biscoitos{
+  width: 240px;
+  height: 250px;
+  margin: 20px;
+  margin-bottom: 130px;
+}

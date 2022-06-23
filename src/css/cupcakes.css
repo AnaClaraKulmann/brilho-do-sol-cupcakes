@@ -1,0 +1,44 @@
+.cupcakes{
+  color:red;
+  padding-top: 10px;
+  text-align: center;
+  font-size: 40px;
+}
+
+.ft1-cup{
+  width: 230px;
+  height: 240px;
+  margin: 20px;
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+
+
+.ft2-cup{
+  width: 230px;
+  height: 240px;
+  margin: 20px;
+  margin-bottom: 130px;
+}
+
+.subtitulo-cup{
+  text-align: left;
+  font-size: 28px;
+  margin-left: 170px;
+  margin-top: 10px;
+}
+
+.descricaoCup{
+  text-align: left;
+  margin-left: 310px;
+  font-size: 15px;
+  position: absolute;
+  top: 1280px;
+}
+
+.ft3-cup{
+  width: 225px;
+  height: 260px;
+  margin: 20px;
+  margin-bottom: 130px;
+}
