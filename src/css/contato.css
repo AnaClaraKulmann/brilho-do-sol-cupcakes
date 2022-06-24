@@ -21,7 +21,7 @@
 
 .instagram{
   font-size: 16px;
-  padding: 5px;
+  
   position: absolute;
   left: 110px;
   bottom: 65px;
@@ -29,7 +29,7 @@
 
 .facebook{
   font-size: 16px;
-  padding: 5px;
+ 
   position: absolute;
   left: 110px;
   bottom: 32px;
@@ -37,7 +37,7 @@
 
 .frase-final{
   font-size: 16px;
-  padding: 5px;
+  
   position: absolute;
   left: 110px;
   top: 650px;
