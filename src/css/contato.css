@@ -16,7 +16,7 @@
   font-size: 16px;
   position: absolute;
   left: 115px;
-  bottom: 110px;
+  bottom: 100px;
 }
 
 .instagram{
@@ -24,7 +24,7 @@
   padding: 5px;
   position: absolute;
   left: 110px;
-  bottom: 75px;
+  bottom: 65px;
 }
 
 .facebook{
@@ -32,7 +32,7 @@
   padding: 5px;
   position: absolute;
   left: 110px;
-  bottom: 42px;
+  bottom: 32px;
 }
 
 .frase-final{
@@ -40,7 +40,7 @@
   padding: 5px;
   position: absolute;
   left: 110px;
-  top: 630px;
+  top: 650px;
   text-align: left; 
 }
 
