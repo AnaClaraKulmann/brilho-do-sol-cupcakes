@@ -15,23 +15,22 @@
 .whatsapp{
   font-size: 16px;
   position: absolute;
-  padding-top: 30px;
   left: 115px;
-  bottom: 100px;
+  bottom: 80px;
 }
 
 .instagram{
   font-size: 16px;
   position: absolute;
   left: 110px;
-  bottom: 65px;
+  bottom: 55px;
 }
 
 .facebook{
   font-size: 16px;
   position: absolute;
   left: 110px;
-  bottom: 32px;
+  bottom: 22px;
 }
 
 .frase-final{
